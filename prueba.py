@@ -9,5 +9,5 @@ if edad > 18:
   else:
       print("Chau")
 else:
-    print("No sos mayo de edad")
+    print("No sos mayor de edad")
 
