@@ -1,6 +1,8 @@
 
+edad = int(input("Cual es tu edad?: "))
 nombre = input("Cual es tu nombre?: ")
 
-if nombre == "Tato":
-  print("Hola Mundo!")
+if edad > 18:
+  if nombre == "Tato":
+    print("Hola Mundo!")
 
